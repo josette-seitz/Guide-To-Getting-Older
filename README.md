@@ -1,6 +1,5 @@
 # Guide-To-Getting-Older
-<h3>Featured at San Diego Comic Con 2022</h3></br>
-
+<h3>Featured at San Diego Comic Con 2022</h3>
 ![SDCC_logo_horizontal](https://github.com/josette-seitz/Guide-To-Getting-Older/assets/7431704/f5ce80b2-8ff3-4f7d-a77e-dd9b4ff8dbc7)
 
 </br>
