@@ -7,4 +7,7 @@
 </br>
 <b>Sideload Application (APK) to any Meta Quest 2 Headset using SideQuest:</b> </br>
 https://sidequestvr.com/app/9400/captain-a-holes-guide-to-getting-older
-
+</br>
+Have you ever felt like you are not getting old, but old-er? Captain has some stories for you! Experience a piece of Captain's life from the latest comic book, "Captain A-Hole's Guide to Getting Old(er)". More features and stories coming soon!
+</br>
+<i></i>This is a Hand Tracking only Quest 2 application, so please make sure to enable "Hand Tracking" in the Settings of your headset.</i>
