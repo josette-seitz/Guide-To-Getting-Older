@@ -1,0 +1,9 @@
+ADB Instructions
+----------------
+
+Make sure "Developer Mode" is enabled on headset. Go to Settings on Oculus app to enable.
+
+ADB Commands:
+1. adb devices 
+2. adb install GuideToGettingOlder-v1.1.0.apk (Name of APK in folder)
+3. adb uninstall com.UncleDadComics.GuideToGettingOlder (Name of package)
